@@ -1,0 +1,33 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad
+*.xcworkspace/xcuserdata/
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.perspectivev3
+
+# User settings
+xcuserdata/
+*.xcscmblueprint
+
+# Swift package manager
+/.build/
+Packages/
+
+# Cocoapods
+Pods/
+
+# Carthage
+Carthage/Build
+
+# macOS
+.DS_Store
+
+# provisioning and signing (don't store private profiles/keys)
+*.mobileprovision
+*.cer
+*.p12
+
